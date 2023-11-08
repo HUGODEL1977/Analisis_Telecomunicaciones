@@ -6,10 +6,11 @@
  
 # Análisis de Acceso a Internet y Telefonía Móvil en Argentina.
 
+
 # Introducción
 
 
-Este análisis exhaustivo se centra en el acceso a Internet y la telefonía móvil en Argentina. Exploramos detalladamente datos relacionados con el acceso a Internet y la evolución de la telefonía móvil en el país. Los hallazgos se dividen en dos secciones: Acceso a Internet y Telefonía Móvil.
+Este análisis exhaustivo se centra en el acceso a Internet y la telefonía móvil en Argentina. Exploramos detalladamente datos relacionados a Internet y la evolución de la telefonía móvil en el país. Los hallazgos se dividen en dos secciones: # Acceso a Internet con seis archivos y  # Telefonía Móvil con tres archivos, en estas dos secciones hay archivos cleaned o limpios que se cargan en el repositorio, los archivos iniciales estaran en un archivo de Google Drive.
 
 # ACCESO A INTERNET
 
