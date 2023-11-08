@@ -10,8 +10,11 @@
 # Introducción
 
 
-Este análisis exhaustivo se centra en el acceso a Internet y la telefonía móvil en Argentina. Exploramos detalladamente datos relacionados a Internet y la evolución de la telefonía móvil en el país. Los hallazgos se dividen en dos secciones: # Acceso a Internet con seis archivos y  # Telefonía Móvil con tres archivos, en estas dos secciones hay archivos cleaned o limpios que se cargan en el repositorio y con los que se trabajaron los EDA correspondientes, los archivos iniciales con los que se realizo el ETL, estaran en dos archivos de Google Drive, se dejan a continuacion : https://drive.google.com/drive/folders/10AR-QdZiqyQuLuqPIRBCV6aM899ZoYAI?usp=drive_link
-               https://drive.google.com/drive/folders/1sUqQ9ughzbBPpQIj5I6vmWhSiyfUGhzy?usp=drive_link
+Este análisis exhaustivo se centra en el acceso a Internet y la telefonía móvil en Argentina. Exploramos detalladamente datos relacionados a Internet y la evolución de la telefonía móvil en el país. Los hallazgos se dividen en dos secciones: # Acceso a Internet con seis archivos y  # Telefonía Móvil con tres archivos, en estas dos secciones hay archivos cleaned o limpios que se cargan en el repositorio y con los que se trabajaron los EDA correspondientes, los archivos iniciales con los que se realizo el ETL, estaran en dos archivos de Google Drive, se dejan a continuacion : 
+
+https://drive.google.com/drive/folders/10AR-QdZiqyQuLuqPIRBCV6aM899ZoYAI?usp=drive_link
+
+https://drive.google.com/drive/folders/1sUqQ9ughzbBPpQIj5I6vmWhSiyfUGhzy?usp=drive_link
 
 
 
