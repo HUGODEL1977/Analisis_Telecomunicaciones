@@ -1,6 +1,7 @@
 # Analisis_Datos_Telecomunicaciones
 
-![Uploading image.png…]()
+<img width="521" alt="image" src="https://github.com/HUGODEL1977/Analisis_Telecomunicaciones/assets/128526281/b3b11607-fafb-4913-b82c-3cc00c4f7a5f">
+
 
  
 # Análisis de Acceso a Internet y Telefonía Móvil en Argentina.
